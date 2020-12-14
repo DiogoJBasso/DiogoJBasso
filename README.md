@@ -52,15 +52,13 @@
 
 ---
 
-|## GitHub Stats:
-
-  <img alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true&theme=prussian" />
-  
-|## Atualizações *recentes* no Github:
-
+| GitHub Stats: | Atualizações *recentes* no Github: |
+| :---         |     :---:      |
+|<img alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true&theme=prussian" />|
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 |
+
 [website]: https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso
 [startup]: https://ensinu.com.br
 [instagram]: https://instagram.com/diogojbasso
