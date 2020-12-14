@@ -54,7 +54,7 @@
 
 ## GitHub Stats
 
-  <img align="left" alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true" />
+  <img align="left" alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true&theme=prussian" />
 
 ## Atualizações recentes no Github:
   
