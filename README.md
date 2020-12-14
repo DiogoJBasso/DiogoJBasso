@@ -57,6 +57,8 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 |
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoJBasso&repo=bootcamp-python-igti&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoJBasso&repo=Nodejs&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso
 [startup]: https://ensinu.com.br
