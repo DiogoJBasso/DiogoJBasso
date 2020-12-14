@@ -54,11 +54,9 @@
 
 ## GitHub Stats
 
-  <img alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true" />
----
+  <img align="left" alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+## Atualizações recentes no Github:
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
@@ -67,8 +65,6 @@
 4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
-
-</details>
 
 [website]: https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso
 [startup]: https://ensinu.com.br
