@@ -1,7 +1,5 @@
 ### Olá, eu sou [Diogo Basso!][website] 👋
-- Site empresarial:
 [![startup](https://img.shields.io/website?label=ensinu.com.br&style=for-the-badge&url=https%3A%2F%2Fensinu.com.br)](https://ensinu.com.br)
-- Site pessoal:
 [![website](https://img.shields.io/website?label=<sitepessoal/>&style=for-the-badge&url=https%3A%2F%2Fsites.google.com%2Faluno.colegioplanck.com.br%2Fdiogojbasso)](https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso)
 
 ## Eu sou empreendedor e programador com 💖:
