@@ -36,12 +36,9 @@
 <br/>
 
 | 👓 Linguajens preferidas | 👀 Status do Wakatime |
-| --- | --- |
-|
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-|
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiogoJBasso)](https://github.com/anuraghazra/github-readme-stats)
-|
+| :---: | :---: |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) |
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiogoJBasso)](https://github.com/anuraghazra/github-readme-stats) |
 
 ### 📕 Últimos post no Blog:
 
