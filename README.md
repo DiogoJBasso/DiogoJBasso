@@ -36,7 +36,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&custom_title=Lingugens que aprecio:)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&custom_title="Lingugens que aprecio:")](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📕 Últimos post no Blog:
