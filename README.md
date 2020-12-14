@@ -18,7 +18,6 @@
 [<img align="left" alt="Diogo Jorge Basso | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
 
 <br />
----
 
 ### 🔥 Linguagem de programação e ferramentas:
 
@@ -34,11 +33,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiogoJBasso)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiogoJBasso)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📕 Últimos post no Blog:
 
