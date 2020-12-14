@@ -1,13 +1,14 @@
-#### Olá, eu sou [Diogo Basso!][website] 👋
-[![startup](https://img.shields.io/website?label=ensinu.com.br&style=for-the-badge&url=https%3A%2F%2Fensinu.com.br)](https://ensinu.com.br)
+### Olá, eu sou [Diogo Basso!][website] 👋
+[![startup](https://img.shields.io/website?label=<sitestartup/>&style=for-the-badge&url=https%3A%2F%2Fensinu.com.br)](https://ensinu.com.br)
 [![website](https://img.shields.io/website?label=<sitepessoal/>&style=for-the-badge&url=https%3A%2F%2Fsites.google.com%2Faluno.colegioplanck.com.br%2Fdiogojbasso)](https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso)
 
 ## Eu sou empreendedor e programador com 💖:
 
 - 🌱 Estou aprendendo atualmente **electron.js**;
+- 🚀 O que eu já sei de **ferramentas e tecnologias**, acompanhe abaixo.
 - 👯 Estou buscando por parceiros em **UX** no produto da minha [Startup][startup];
-- 🥅 Objetivos de 2021: Entrar no mundo do Open Software e dar growth na Ensinu;
-- 📚 Leitura: Estou lendo, hoje, "Austrian School for Investors".
+- 🥅 Objetivos de 2021: Entrar no mundo do **Open Software** e dar growth na Ensinu;
+- 📚 Leitura: Estou lendo, hoje, *"Austrian School for Investors"*.
 
 ### 🤝 Conecte comigo:
 
@@ -29,7 +30,6 @@
 [<img align="left" alt="React-native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 <br />
