@@ -1,7 +1,8 @@
 ### Olá, eu sou [Diogo Basso!][website] 👋
 - Site empresarial:
-[![Startup](https://img.shields.io/website?label=ensinu.com.br&style=for-the-badge&url=ensinu.com.br)](https://ensinu.com.br)
+[![startup](https://img.shields.io/website?label=ensinu.com.br&style=for-the-badge&url=https%3A%2F%2Fensinu.com.br)](https://ensinu.com.br)
 - Site pessoal:
+[![website](https://img.shields.io/website?label=<sitepessoal/>&style=for-the-badge&url=https%3A%2F%2Fsites.google.com%2Faluno.colegioplanck.com.br%2Fdiogojbasso)](https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso)
 
 ## Eu sou empreendedor e programador com 💖:
 
@@ -53,6 +54,11 @@
 
 ---
 
+## GitHub Stats
+
+  <img align="left" alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true" />
+---
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -63,13 +69,6 @@
 4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true" />
 
 </details>
 
