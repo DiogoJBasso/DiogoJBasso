@@ -1,4 +1,4 @@
-### Olá, eu sou [Diogo Basso!][website] 👋
+# Olá, eu sou [Diogo Basso!][website] 👋
 [![startup](https://img.shields.io/website?label=<sitestartup/>&style=for-the-badge&url=https%3A%2F%2Fensinu.com.br)](https://ensinu.com.br)
 [![website](https://img.shields.io/website?label=<sitepessoal/>&style=for-the-badge&url=https%3A%2F%2Fsites.google.com%2Faluno.colegioplanck.com.br%2Fdiogojbasso)](https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso)
 
@@ -36,7 +36,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&custom_title="Lingugens que aprecio:")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&locale=pt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📕 Últimos post no Blog:
