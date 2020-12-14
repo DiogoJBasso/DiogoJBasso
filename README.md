@@ -33,11 +33,13 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 <br />
-<br />
 
 ---
 
-### 📕 Últimos post no Blog
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&custom_title=Lingugens que aprecio:)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 📕 Últimos post no Blog:
 
 <!-- BLOG-POST-LIST:START -->
 - [Integrações ao software Ensinu](https://ensinu.com.br/melhorias-educacao/integracao-software-ensinu/)
@@ -57,10 +59,15 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 |
+
+<br/>
+---
+
+## ⭐ Repo's que fizeram história:
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoJBasso&repo=bootcamp-python-igti&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoJBasso&repo=Nodejs&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso
 [startup]: https://ensinu.com.br
