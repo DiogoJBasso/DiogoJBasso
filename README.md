@@ -47,11 +47,11 @@
 ### 📕 Últimos post no Blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero a Um Peter Thiel](https://ensinu.com.br/ebook/zero-um-peter-thiel/)
 - [Integrações ao software Ensinu](https://ensinu.com.br/melhorias-educacao/integracao-software-ensinu/)
 - [Certificados e Certificações](https://ensinu.com.br/blog/certificados/)
 - [Help-desk](https://ensinu.com.br/suporte/help-desk/)
 - [Summit Empreendedorismo Colégio Planck](https://ensinu.com.br/eventos/summit-empreendedorismo-colegio-planck/)
-- [Valores e mandamentos da Ensinu](https://ensinu.com.br/blog/valores-mandamentos-ensinu/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [mais no blog...](https://ensinu.com.br/blog)
