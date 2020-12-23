@@ -40,7 +40,7 @@
 | 👓 Linguajens preferidas | 👀 Status do Wakatime |
 | :---: | :---: |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) |
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8a068428-fa3f-477f-b75b-b22b62a6b3c9/9a1cfa0e-0756-4937-821c-dc4b78bdeb8c.png" /></a>
+<img src="https://wakatime.com/share/@8a068428-fa3f-477f-b75b-b22b62a6b3c9/9a1cfa0e-0756-4937-821c-dc4b78bdeb8c.png" width="200" height="300"/>
  |
 
 ---
