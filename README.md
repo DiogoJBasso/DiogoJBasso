@@ -40,7 +40,7 @@
 | 👓 Linguajens preferidas | 👀 Status do Wakatime |
 | :---: | :---: |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJBasso&langs_count=3&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) |
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiogoJBasso)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8a068428-fa3f-477f-b75b-b22b62a6b3c9/9a1cfa0e-0756-4937-821c-dc4b78bdeb8c.png" /></a>
  |
 
 ---
@@ -57,12 +57,8 @@
 
 ➡️ [mais no blog...](https://ensinu.com.br/blog)
 
-| 📡 GitHub Stats: | 🛠 Atualizações *recentes* no Github: |
-| ---         |     ---     |
-|<img alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true&theme=prussian" />|
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-|
+### 📡 GitHub Stats:
+<img alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true&theme=prussian" />
 
 ---
 
