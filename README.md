@@ -64,8 +64,8 @@
 
 ## ⭐ Repo's que fizeram história:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogojorgebasso&repo=bootcamp-python-igti&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogojorgebasso&repo=Nodejs&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Cartão Leia Me](https://github-readme-stats.vercel.app/api/pin/?username=diogojorgebasso&repo=bootcamp-python-igti&show_owner=true)](https://github.com/diogojorgebasso/bootcamp-python-igti)
+[![Cartão Leia Me](https://github-readme-stats.vercel.app/api/pin/?username=diogojorgebasso&repo=Nodejs&show_owner=true)](https://github.com/diogojorgebasso/nodejs)
 
 
 [website]: https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso
