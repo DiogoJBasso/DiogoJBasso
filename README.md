@@ -58,14 +58,14 @@
 ➡️ [mais no blog...](https://ensinu.com.br/blog)
 
 ### 📡 GitHub Stats:
-<img alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiogoJBasso&show_icons=true&hide_border=true&theme=prussian" />
+<img alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=diogojorgebasso&show_icons=true&hide_border=true&theme=prussian" />
 
 ---
 
 ## ⭐ Repo's que fizeram história:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoJBasso&repo=bootcamp-python-igti&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoJBasso&repo=Nodejs&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogojorgebasso&repo=bootcamp-python-igti&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diogojorgebasso&repo=Nodejs&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso
