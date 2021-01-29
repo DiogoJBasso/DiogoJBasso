@@ -74,4 +74,4 @@
 [linkedin]: https://www.linkedin.com/in/diogobasso/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLeKujfa_GRS8Y2lUeDUU2448N9jcAoVGJ
 [telegram]: https://t.me/diogobasso
-[email]: mailto:diogo@ensinu.com.br
+[email]: mailto:diogojbasso@gmail.com
