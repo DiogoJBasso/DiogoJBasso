@@ -61,7 +61,7 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/diogojorgebasso)
+![Metrics](https://github.com/diogojorgebasso/diogojorgebasso/blob/master/github-metrics.svg)
 
 
 
