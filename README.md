@@ -1,5 +1,9 @@
-# Olá, eu sou [Diogo Basso!][website] 👋
+# Prazer, eu sou [Diogo Basso!][website] 👋
+![Metrics](https://github.com/diogojorgebasso/diogojorgebasso/blob/master/github-metrics.svg)
+![Metrics](https://github.com/diogojorgebasso/diogojorgebasso/blob/master/metrics.plugin.isocalendar.svg)
+
 [![website](https://img.shields.io/website?label=<sitepessoal/>&style=for-the-badge&url=https%3A%2F%2Fsites.google.com%2Faluno.colegioplanck.com.br%2Fdiogojbasso)](https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso)
+[![Sparkline](https://stars.medv.io/diogojorgebasso/diogojorgebasso.svg)](https://stars.medv.io/diogojorgebasso/diogojorgebasso)
 
 ## Eu sou empreendedor e programador com 💖:
 
@@ -60,8 +64,6 @@
 <img alt="Diogo Jorge Basso GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=diogojorgebasso&show_icons=true&hide_border=true&theme=prussian" />
 
 ---
-
-![Metrics](https://github.com/diogojorgebasso/diogojorgebasso/blob/master/github-metrics.svg)
 
 
 
