@@ -61,10 +61,8 @@
 
 ---
 
-## ⭐ Repo's que fizeram história:
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
-[![Cartão Leia Me](https://github-readme-stats.vercel.app/api/pin/?username=diogojorgebasso&repo=bootcamp-python-igti&show_owner=true)](https://github.com/diogojorgebasso/bootcamp-python-igti)
-[![Cartão Leia Me](https://github-readme-stats.vercel.app/api/pin/?username=diogojorgebasso&repo=Nodejs&show_owner=true)](https://github.com/diogojorgebasso/nodejs)
 
 
 [website]: https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso
