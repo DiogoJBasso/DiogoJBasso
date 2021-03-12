@@ -3,7 +3,6 @@
 ![Metrics](https://github.com/diogojorgebasso/diogojorgebasso/blob/master/metrics.plugin.isocalendar.svg)
 
 [![website](https://img.shields.io/website?label=<sitepessoal/>&style=for-the-badge&url=https%3A%2F%2Fsites.google.com%2Faluno.colegioplanck.com.br%2Fdiogojbasso)](https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso)
-[![Sparkline](https://stars.medv.io/diogojorgebasso/diogojorgebasso.svg)](https://stars.medv.io/diogojorgebasso/diogojorgebasso)
 
 ## Eu sou empreendedor e programador com 💖:
 
